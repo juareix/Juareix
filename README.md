@@ -1,4 +1,8 @@
-## Oiii! Eu sou a Rafaella Ballerini 
+## Olá! Eu sou o Juarez Maciel...
+- 💻 Desenvolvedor web Junior
+- 📚 Estudando: REACT
+- ⌨️ Cursando Engenharia elétrica-eletrônica
+- 💾 Técnico em informática
  <div>
   <a href="https://github.com/juareix">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juareix&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>

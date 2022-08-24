@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Juarez Maciel...
 - 💻 Desenvolvedor web Junior
-- 📚 Estudando: REACT
-- ⌨️ Cursando Engenharia elétrica-eletrônica
+- 📚 Estudando: React, Typescript e NodeJS
+- ⌨️ Cursando Análise e desenvolvimento de sistemas
 - 💾 Técnico em informática
  <div>
   <a href="https://github.com/juareix">

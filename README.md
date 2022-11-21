@@ -1,13 +1,21 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Juarez+Maciel;I'm+21+years+old;I+from+Brasil,+Manaus+-+AM;I+study+systems+development+at+IFAM;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 ## Olá! Eu sou o Juarez Maciel...
 - 💻 Desenvolvedor web Junior
 - 📚 Estudando: React, Typescript e NodeJS
 - ⌨️ Cursando Análise e desenvolvimento de sistemas
 - 💾 Técnico em informática
- <div>
+ <div align="center">
   <a href="https://github.com/juareix">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juareix&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juareix&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
+ </br>
+ 
+ ![Contribution](https://activity-graph.herokuapp.com/graph?username=juareix&theme=gotham&hide_border=true&area=true)
+ 
 <h1>Tecnologias e ferramentas usadas:</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -33,3 +41,5 @@
   ![Snake animation](https://github.com/juareix/juareix/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>

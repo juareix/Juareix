@@ -7,14 +7,14 @@
 - ⌨️ Cursando: Engenharia de software
 - 💾 Formação: Técnico em informática
 
-  ##
-  ##
- <div align="center">
+##
+
+<div align="center">
   <a href="https://github.com/juareix">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juareix&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juareix&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
- </br>
+</br>
 
  
 <h1>Conhecimento nas tecnologias:</h1>
@@ -26,21 +26,13 @@
   <img align="center" alt="ju-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
   <img align="center" alt="ju-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="ju-git" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-
-  
-
-
-
-
-
-  
 </div>
-  
- <h1>Contatos:</h1>
+
+##
+<h1>Contatos:</h1>
 <div>
   <a href="https://www.linkedin.com/in/juarez-maciel-98aba8211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:juarezmaciel.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
 </div>
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>

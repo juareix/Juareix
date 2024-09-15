@@ -8,14 +8,6 @@
 - 💾 Formação: Técnico em informática
 
 ##
-
-<div align="center">
-  <a href="https://github.com/juareix">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juareix&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juareix&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
-</br>
-
  
 <h1>Conhecimento nas tecnologias:</h1>
 <div style="display: inline_block"><br>

@@ -20,6 +20,12 @@
   <img align="center" alt="ju-git" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </div>
 
+<br>
+<div>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juareix&layout=compact&theme=gruvbox)](https://github.com/juareix/github-readme-stats)
+</div>
+
 ##
 <h1>Contatos:</h1>
 <div>

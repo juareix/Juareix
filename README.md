@@ -73,7 +73,7 @@ Sou movido pela curiosidade e pelo impacto que a tecnologia pode gerar. Combino 
 ### 📫 Vamos nos conectar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/juarezmaciel/)
-- 📧 juarezmaciel.dev@gmail.com
+- 📧 juarezmaciel.pro@gmail.com
 - 🧑‍💻 [Portfólio (em breve)](https://github.com/juareix)
 
 ---

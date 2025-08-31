@@ -20,7 +20,7 @@ Sou movido pela curiosidade e pelo impacto que a tecnologia pode gerar. Combino 
 
 ### 🧰 Tecnologias e Ferramentas
 
-- **Linguagens:** Python 🐍 | R 📊 | SQL 🗃️ | JavaScript (básico)
+- **Linguagens:** Python 🐍 | R 📊 | SQL 🗃️ 
 - **Data Science:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Tidyverse, Power BI
 - **Infraestrutura:** Redes, Linux, OPNsense, Paramiko/Netmiko, MikroTik
 - **DevOps:** Git/GitHub, GitHub Actions, Docker (iniciante)

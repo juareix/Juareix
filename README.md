@@ -22,10 +22,9 @@ Sou movido pela curiosidade e pelo impacto que a tecnologia pode gerar. Combino 
 
 - **Linguagens:** Python 🐍 | R 📊 | SQL 🗃️ 
 - **Data Science:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Tidyverse, Power BI
-- **Infraestrutura:** Redes, Linux, OPNsense, Paramiko/Netmiko, MikroTik
 - **DevOps:** Git/GitHub, GitHub Actions, Docker (iniciante)
 - **Automação:** Power Automate, n8n
-- **Ambientes:** Jupyter, RStudio, VS Code, pyenv, venv
+- **Ambientes:** Jupyter, RStudio, VS Code
 
 ---
 
@@ -62,13 +61,6 @@ Sou movido pela curiosidade e pelo impacto que a tecnologia pode gerar. Combino 
 
 ---
 
-### ✨ Curiosidades sobre mim
-
-- 📈 Corro 20 a 40 km por semana com foco em constância e performance — dados e esporte se conversam!  
-- 💡 Estou sempre bolando uma automação nova, seja na nuvem, no Power Automate ou na rede local.  
-- 📚 Curto ensinar, compartilhar aprendizados e organizar repositórios com foco em reprodutibilidade.
-
----
 
 ### 📫 Vamos nos conectar?
 

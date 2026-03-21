@@ -1,7 +1,7 @@
-<h1 align="center">👋 Olá, eu sou o Juarez Maciel!</h1>
+<h1 align="center">👋 Olá, eu sou o Juarez Maciel</h1>
 
 <p align="center">
-  💻 Estudante de Engenharia de Software | 🔬 Pesquisador em Ciência de Dados | 🧠 Explorador de IA e Automação
+  💻 Data & Backend Developer | 🧠 Machine Learning & IA | ⚙️ Engenharia de Dados & DevOps
 </p>
 
 <p align="center">
@@ -10,41 +10,143 @@
 
 ---
 
-### 🚀 Sobre mim
+## 🚀 Sobre mim
 
-Sou movido pela curiosidade e pelo impacto que a tecnologia pode gerar. Combino minha formação em **Engenharia de Software** com uma bagagem prática em **ciência de dados aplicada à saúde pública**, **automação de processos** e **infraestrutura de redes**. Atualmente, atuo em um projeto de iniciação científica na Fiocruz, onde avalio a qualidade de bases como SINAN e GAL com foco em dados de tuberculose no Amazonas.
+Atuo com dados de ponta a ponta, desde a **engenharia e preparação** até a **modelagem e aplicação com IA**, desenvolvendo soluções que integram backend, pipelines e inteligência artificial.
 
-📌 Curto construir coisas que resolvem problemas de verdade, especialmente quando envolvem dados públicos, reprodutibilidade e impacto social.
+Tenho experiência prática em:
+- 🔄 Construção de pipelines de dados e integrações entre múltiplas fontes
+- 🧠 Desenvolvimento de modelos de Machine Learning com **Scikit-learn**
+- 🤖 Aplicações com LLMs (RAG, embeddings, bancos vetoriais)
+- ⚙️ Backends e automações em Python
+- 📊 Visualização de dados para suporte à decisão
 
----
-
-### 🧰 Tecnologias e Ferramentas
-
-- **Linguagens:** Python 🐍 | R 📊 | SQL 🗃️ 
-- **Data Science:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Tidyverse, Power BI
-- **DevOps:** Git/GitHub, GitHub Actions, Docker (iniciante)
-- **Automação:** Power Automate, n8n
-- **Ambientes:** Jupyter, RStudio, VS Code
+📌 Busco sempre unir **robustez técnica + aplicabilidade real**, com foco em impacto.
 
 ---
 
-### 🏆 Repositórios em Destaque
+## 🧠 Stack & Tecnologias
 
-<p align="center">
-  <a href="https://github.com/juareix/Analise-dos-casos-de-tuberculose-no-amazonas-2007-2023">
-    <img alt="Tuberculose no Amazonas" src="https://img.shields.io/badge/🔬%20Tuberculose%20no%20Amazonas-2007--2023-blue?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://github.com/juareix/Lab-Mikrotik-Python-Automation">
-    <img alt="Lab MikroTik" src="https://img.shields.io/badge/⚙️%20Lab%20MikroTik%20+%20Python%20SSH-Automation-lightgrey?style=for-the-badge&logo=python">
-  </a>
-  <a href="https://github.com/juareix/Ferramenta-Automatizada-Saude">
-    <img alt="Ferramenta Automatizada Saúde" src="https://img.shields.io/badge/🧠%20Ferramenta%20de%20Dados%20de%20Saúde-Python%20+%20Streamlit-orange?style=for-the-badge&logo=streamlit">
-  </a>
-</p>
+### 👨‍💻 Linguagens
+- Python 🐍 | SQL 🗃️ | R 📊  
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📊 Data Science & Machine Learning
+- Pandas, NumPy
+- **Scikit-learn (modelagem, treino, validação e pipelines)**
+- Feature engineering
+- Avaliação de modelos
+- Análise exploratória e estatística
+
+---
+
+### ⚙️ Engenharia de Dados & Backend
+- ETL & pipelines de dados
+- APIs (FastAPI)
+- PostgreSQL | SQL Server
+- Integração de sistemas
+
+---
+
+### 🤖 IA Aplicada
+- LLMs (RAG, embeddings, vector databases)
+- NLP aplicado
+- Sistemas inteligentes orientados a dados
+
+---
+
+### 🚀 DevOps & Infraestrutura
+- Docker
+- Versionamento com Git/GitHub
+- Estruturação de ambientes
+- Automação de processos (Power Automate, n8n)
+- Integração e deploy de aplicações
+
+---
+
+### 📊 Visualização
+- Power BI
+- Matplotlib / Seaborn
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🧠 Chat Text-to-SQL com IA
+Sistema que traduz linguagem natural em SQL.
+
+- LLM + classificador treinado com Scikit-learn
+- Pipeline completo de interpretação de queries
+- Integração com banco de dados real
+- **Impacto:** facilita acesso a dados para usuários não técnicos
+
+---
+
+### 📊 Análise de Dados de Saúde Pública
+Projeto com dados reais (SINAN e GAL).
+
+- Processamento e integração de dados
+- Análise de qualidade (completude e inconsistência)
+- Estatística aplicada
+- Geração de dashboards
+
+---
+
+### 🤖 Bot de Vagas (Telegram/WhatsApp)
+Sistema de automação para envio de vagas.
+
+- Scraping e consumo de APIs
+- Filtros personalizados
+- Notificações automatizadas
+
+---
+
+### 🛒 Pipeline de Dados com Scraping
+Pipeline completo de dados de e-commerce.
+
+- Coleta automatizada
+- Armazenamento estruturado
+- Visualização e análise de preços
+
+---
+
+### 📚 Plataforma de Estudos com IA (RAG)
+Ferramenta baseada em IA para aprendizado.
+
+- Processamento de documentos
+- Busca semântica com embeddings
+- Geração de resumos e flashcards
+
+---
+
+## 🎓 Formação & Pesquisa
+
+### 🎓 Formação
+Graduação na área de tecnologia/dados (em andamento)
+
+---
+
+### 🧪 Pesquisa (Iniciação Científica)
+**Análise de dados de tuberculose no Amazonas**
+
+- Integração de bases SINAN e GAL
+- Avaliação de qualidade dos dados
+- Análises estatísticas
+- Desenvolvimento de repositório e dashboard
+- Aplicação de princípios FAIR
+
+---
+
+### 📚 Interesses de Pesquisa
+- Machine Learning aplicado à saúde
+- Modelagem de doenças infecciosas
+- Qualidade de dados
+- Graph Neural Networks
+
+---
+
+## 📈 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juareix&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -53,7 +155,7 @@ Sou movido pela curiosidade e pelo impacto que a tecnologia pode gerar. Combino 
 
 ---
 
-### 🔥 Atividade recente
+## 🔥 Atividade recente
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=juareix&theme=tokyo-night&area=true&hide_border=true"/>
@@ -61,21 +163,14 @@ Sou movido pela curiosidade e pelo impacto que a tecnologia pode gerar. Combino 
 
 ---
 
+## 📫 Contato
 
-### 📫 Vamos nos conectar?
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/juarezmaciel/)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/juarezmaciel](https://www.linkedin.com/in/juarez-maciel/)/)
 - 📧 juarezmaciel.pro@gmail.com
-- 🧑‍💻 [Portfólio (em breve)](https://github.com/juareix)
+- 🧑‍💻 Portfólio (em construção)
 
 ---
 
-### ⚡ Frase que me guia:
-> _"Tornar dados úteis é transformar informação em impacto."_
+## ⚡ Filosofia
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:0066CC&height=140&section=footer"/>
-</p>
-
+> _Transformar dados em soluções inteligentes que geram impacto real._

@@ -165,9 +165,9 @@ Graduação na área de tecnologia/dados (em andamento)
 
 ## 📫 Contato
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/juarezmaciel](https://www.linkedin.com/in/juarez-maciel/)/)
-- 📧 juarezmaciel.pro@gmail.com
-- 🧑‍💻 [Portfólio]([https://juarezmaciel.vercel.app/])
+- 💼 **LinkedIn:** https://www.linkedin.com/in/juarez-maciel/
+- 🧑‍💻 **Portfólio:** https://juarezmaciel.vercel.app/
+- 📧 **Email:** juarezmaciel.pro@gmail.com
 
 ---
 
